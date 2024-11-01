@@ -1,0 +1,22 @@
+
+body{
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100vh;
+  background: url("https://media.istockphoto.com/id/1397028825/vector/pastel-green-mint-abstract-wave-template.jpg?s=612x612&w=0&k=20&c=9wVskbKfFPebGQJei0c6EBq7WxJE98bxrpZdsJhLQO0=") no-repeat  ;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+h1{
+  font-family: "Happy Monkey", system-ui;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 2em;
+  max-width: 33em;
+
+}
+
+
+
